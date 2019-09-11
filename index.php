@@ -4,7 +4,7 @@
 		<title>Freight Brokerage</title>
 
 		<meta charset="UTF-8">
-		<meta name="description" content="Freight brokers moving truckload and less than truckload freight. Great freight rates for carriers and shippers.">
+		<meta name="description" content="Ajax Transport, Freight brokers moving truckload and less than truckload freight. Great freight rates for carriers and shippers.">
 		<meta name="keywords" content="post loads online, search for loads, trucking, freight logistics, trucking companies, freight, brokers, logistics, shippers, carriers, ajax transport">
 		<meta name="author" content="David Petringa, Coded April 2018">
 		<meta name="viewport" content="width=device-width; initial-scale=1.0">
@@ -17,11 +17,12 @@
 
 		<header>
 			<h1>Freight Brokerage</h1>
-			<h2>Ajax, A Freight Broker</h2>
+			<h2>Ajax Transport, A Freight Broker</h2>
 		</header>
 
 		<section class="content">
 			<h3>We Move Freight</h3>
+			<h3>Servicing United States, Mexico and Canada</h3>
 			<div class="register">
 				<p>
 					<a href="http://www.ajaxtransport.com/carrier/register" target="blank">Carriers Register Now</a>
