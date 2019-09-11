@@ -67,13 +67,13 @@
 					<a href="http://www.thecentraldispatch.com" target="blank">Valuable transportation links at The Central Dispatch</a>
 				</li>
 				<li>
-					<a href="http://www.loadedandrolling.co" target="blank">Carrier look up at Loaded and Rolling .co</a>
+					<a href="http://loadedandrolling.dukesnuz.com/" target="blank">Carrier look up</a>
 				</li>
 				<li>
 					<a href="http://www.loadedandrolling.com" target="blank">Load posting board Loaded and Rolling .com</a>
 				</li>
 				<li>
-					<a href="http://www.ajaxforums.com" target="blank">Ajax Forums</a>
+					<a href="http://forum.ajaxtransport.com/" target="blank">Ajax Forums</a>
 				</li>
 			</ul>
 			<p>
