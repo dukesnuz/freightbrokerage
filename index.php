@@ -74,7 +74,7 @@
 				<a href="http://www.thecentraldispatch.com" target="blank">Valuable transportation links at The Central Dispatch</a>
 			</li>
 			<li>
-				<a href="http://forum.ajaxtransport.com/" target="blank">Ajax Forum</a>
+				<a href="http://##" target="blank">Forum</a>
 			</li>
 			<li>
 				<a href="http://ajaxtransport.com/utilities/contact.php" target="blank">Say Hello</a>
